@@ -59,4 +59,4 @@ Those visiting coffee houses less than 1 time have a lower acceptance rate of 48
 Individuals who never visit coffee houses demonstrate the lowest acceptance rate of 18.88%.
 These observations indicate a trend suggesting that individuals who frequent coffee houses more often tend to have higher acceptance rates for Coffee House coupons compared to those who visit less frequently or never visit.
 
-**Link to Notebook:** https://github.com/FMXIV/Will-The-Customer-Accept-The-Coupon/blob/main/Will%20the%20Customer%20Accept%20the%20Coupon.ipynb
+**Link to Notebook:** [Jupiter Notebook/Will the Customer Accept the Coupon.ipynb](https://github.com/FMXIV/MLAI-Assignment-5.1/blob/47f6508a4b156b7dffa21ad77dd098999fc78852/Jupiter%20Notebook/Will%20the%20Customer%20Accept%20the%20Coupon.ipynb)https://github.com/FMXIV/MLAI-Assignment-5.1/blob/47f6508a4b156b7dffa21ad77dd098999fc78852/Jupiter%20Notebook/Will%20the%20Customer%20Accept%20the%20Coupon.ipynb
